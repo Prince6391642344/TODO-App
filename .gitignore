@@ -76,3 +76,5 @@ yarn-error.log
 
 
 google-services.json
+link-assets-manifest.json
+firebase-messaging-sw
